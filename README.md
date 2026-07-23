@@ -44,7 +44,11 @@ Final energies per image matched to better than 1e-10 Hartree across all images:
 | 6     | -3518.63530509073962   | -3518.63530509063366   | 1.1e-10      |
 | 7     | -3518.66931684779911   | -3518.66931684777046   | 2.9e-11      |
 
-Note that the container run was faster than the reference, on the same 2 nodes and 504 ranks. 
+Note that the container run was faster than the reference, on the same 2 nodes and 504 ranks:
+
+```
+1628834.apptainer   504    504    97.4 %  2026-07-23T16:12:36  281.0 s  0
+```
 
 ## How to run your own case
 
