@@ -47,6 +47,8 @@ Final energies per image matched to better than 1e-10 Hartree across all images:
 Note that the container run was faster than the reference, on the same 2 nodes and 504 ranks:
 
 ```
+Task and CPU statistics:
+ID                 CPUs  Tasks  CPU util                Start  Elapsed  Exit status
 1628834.apptainer   504    504    97.4 %  2026-07-23T16:12:36  281.0 s  0
 ```
 
