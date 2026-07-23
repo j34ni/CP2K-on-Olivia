@@ -1,0 +1,9 @@
+cff-version: 1.0.0
+message: "If you use this work, please cite it as below."
+authors:
+  - family-names: Iaquinta
+    given-names: Jean
+    orcid: https://orcid.org/0000-0002-8763-1643
+title: "CP2K-container"
+repository-code: https://github.com/j34ni/CP2K-on-Olivia
+license: MIT
