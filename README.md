@@ -32,7 +32,7 @@ across 2 nodes with 504 MPI ranks (252 per node). Results were compared against
 a successful reference run using the NRIS/CPU CP2K 2023.1 module on the same
 cluster.
 
-Final energies per image matched to better than 1e-10 Hartree across all 14 images:
+Final energies per image matched to better than 1e-10 Hartree across all images:
 
 | Image | Container (Hartree)    | Reference (Hartree)    | Difference   |
 |-------|------------------------|------------------------|--------------|
